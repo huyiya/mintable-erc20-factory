@@ -18,3 +18,4 @@ ETHERSCAN_KEY=
 
 ## Address
 - Factory: https://testnet.bscscan.com/address/0xb86c107944d1fbbf68b1ced2da1b88330baf742c
+- BUSD: https://testnet.bscscan.com/address/0x2becd5bea6b1f32cf291c602383ad689f46742aa
